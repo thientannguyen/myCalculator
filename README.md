@@ -1,2 +1,2 @@
 # myCalculator
-Implemeneted using React.
+Implemented using React.
